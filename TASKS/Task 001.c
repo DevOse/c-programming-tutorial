@@ -6,6 +6,7 @@ Print all the letters except q and e
 
 use printf
 */
+<<<<<<< HEAD
 
 /**
  * main - entry point
@@ -25,3 +26,5 @@ int main(void)
 	printf("\n");
 	return (0);
 }
+=======
+>>>>>>> 385f299811ed74b3ed32e00370842e8c63751350
